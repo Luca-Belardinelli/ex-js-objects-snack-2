@@ -27,4 +27,4 @@ const chef = {
 
 // Qual è il metodo migliore per clonare l’oggetto chef, e perché? è spread perchè all interno abbiamo delle funzioni, ma ci sono anche degli oggetti annidati
 // correzione dopo video
-// tra i metodi visti non c'è n'è uno con cui riusciamo a fare una copia profonda ma  per farlo possiamo fare tanti spread annidati 
+// tra i metodi visti non c'è n'è uno con cui riusciamo a fare una copia profonda ma  per farlo possiamo fare tanti spread annidati solamente se conosciamo l'oggetto in questione
