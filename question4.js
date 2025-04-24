@@ -23,4 +23,4 @@ const restaurant = {
 
 // Qual è il metodo migliore per clonare l’oggetto chef, e perché?  è spred perchè è possibile copiare le funzioni
 
-// Qual è il metodo migliore per clonare l’oggetto restaurant, e perché? structuredClone perchè possiamo copiare la data senza problemi e perchè ci sono oggetti annidati
+// Qual è il metodo migliore per clonare l’oggetto restaurant, e perché? structuredClone perchè possiamo copiare la data senza problemi // aggiunta dopo video //  e perchè ci sono oggetti annidati
