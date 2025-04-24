@@ -25,4 +25,4 @@ const chef = {
 
 
 
-// Qual è il metodo migliore per clonare l’oggetto chef, e perché?
+// Qual è il metodo migliore per clonare l’oggetto chef, e perché? è spread perchè all interno abbiamo delle funzioni
